@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 32ed413f54e59384ea352206d7d1cfc0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ce9227a04f3c43be436397748a2e9
+      internalID: 62140569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516fe6d298c192448cd891f43370def
+      internalID: 1339687450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de56d53f6ef95540a2c64f63aa0bc5f
+      internalID: -1618180308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95834528981df924e9fc2d67e2553c94
+      internalID: -1574721100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512267d5ecde5974b955679936db5638
+      internalID: -1516013493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2a6a577b246604184881933f9caf7b
+      internalID: -99600920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 87
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0726fa209314dee46a7bf75e539ed9c2
+      internalID: 713199874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 87
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373ad578b944fd64bba440f5726ec550
+      internalID: 1354440476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 87
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26923692f4294341bb6132093669771
+      internalID: 402658257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 87
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ddeaa3bee728d479752985370ab881
+      internalID: -1932277335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c8d88c20c6664990fcf39a415a13d
+      internalID: -356756399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 103
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4664f97c250db429677b8f7f3b7572
+      internalID: -976125587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb3eec6b76f8d48a244fe416a0a052
+      internalID: -1809004391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a36d561b4f168428ae618a1a22d736
+      internalID: 1146885402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3dc0998b3a2b46a03bdd0ad03040a
+      internalID: 869056986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d643a3e416c3468ed71eecb2d363b
+      internalID: 1683558879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb6a54190f8bb428971beee266d2f5
+      internalID: 948065120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04530632a82d3ce4b8c293568361b1d9
+      internalID: -1023430515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981a0175c9518f48b4462528b9a0580
+      internalID: -1276840921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed7629bddf46443ba3fe9eb8b01ef4
+      internalID: 1651570758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a524171d8bde5f74f8837c4d5a838372
+      internalID: -367865364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cafe1b0d119124cbdc8d23585aec24
+      internalID: 205322291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_30
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317e3476697f1e4c9423ad1994e90f9
+      internalID: 1436994534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b723763245fcee428a2fa27e6fbb98e
+      internalID: -61169922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_32
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d624ee1a5c081e24e867bce8b53bd31e
+      internalID: 1665492465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_33
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bf271b1d1fb884ea828f984480d63b
+      internalID: -2008773034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81cadeea70fe974b8641f86b629f628
+      internalID: 785887518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_0: -1809004391
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_1: 62140569
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_10: -1932277335
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_11: -356756399
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_12: -976125587
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_13: -1770599470
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_14: 787668184
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_15: -1538263472
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_16: 1146885402
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_17: 869056986
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_18: 1683558879
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_19: 948065120
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_2: 1339687450
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_20: -1023430515
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_21: 785887518
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_22: -1852217542
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_23: -588110278
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_24: 1725941940
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_25: -2074773381
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_26: -789137467
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_27: 1348130107
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_28: -1089021198
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_29: -480723271
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_3: -1618180308
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_30: 1436994534
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_31: -61169922
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_32: 1665492465
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_33: -2008773034
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_4: -1574721100
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_5: -1516013493
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_6: -99600920
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_7: 713199874
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_8: 1354440476
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_9: 402658257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
